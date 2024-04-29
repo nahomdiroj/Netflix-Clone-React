@@ -2,6 +2,7 @@ import React from 'react'
 import FacebookIcon from '@mui/icons-material/Facebook'
 import InstagramIcon from '@mui/icons-material/Instagram'
 import YouTubeIcon from '@mui/icons-material/YouTube'
+import CopyrightIcon from '@mui/icons-material/Copyright'
 import "./footer.css"
 
 const Footer = () => {
@@ -42,7 +43,7 @@ const Footer = () => {
                 </p>
             </div>
             <div className='copy-write'>
-                &copy:1997-2024 netflix, Inc.
+            © 1997-2024 netflix, Inc.
             </div>
 
         </div>
